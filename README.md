@@ -1,0 +1,2 @@
+# StatusCakeAsCode
+Monitoring configs
